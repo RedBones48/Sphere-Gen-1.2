@@ -31,6 +31,5 @@ Sphere Generator for MInecraft 1.19.3+
 Red_Bones: file structure
 
 
-## Minecraft version 1.17+
-## Version number 1.2
+## Version number 1.2.1
 ## Updated for 1.19.3
