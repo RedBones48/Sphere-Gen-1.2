@@ -30,6 +30,6 @@ Red_Bones: file structure
 
 
 ## Minecraft version 1.17+
-## Version number
+## Version number 1.2
 ## Updated for 1.19.3
-Version_2.2
+
